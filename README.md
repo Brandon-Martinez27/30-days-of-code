@@ -16,7 +16,7 @@ Python Coding Practice
 - [X] Day 4: Class vs. Instance
 - [X] Day 5: Loops
 - [X] Day 6: Let's Review
-- [ ] Day 7: 
+- [X] Day 7: Arrays
 - [ ] Day 8:
 - [ ] Day 9:
 - [ ] Day 10:
