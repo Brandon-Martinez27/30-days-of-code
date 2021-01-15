@@ -18,7 +18,7 @@ Python Coding Practice
 - [X] Day 6: Let's Review
 - [X] Day 7: Arrays
 - [X] Day 8: Dictionaries and Maps
-- [ ] Day 9:
+- [X] Day 9: Recursion 3
 - [ ] Day 10:
 - [ ] Day 11:
 - [ ] Day 12:
