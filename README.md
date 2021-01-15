@@ -19,7 +19,7 @@ Python Coding Practice
 - [X] Day 7: Arrays
 - [X] Day 8: Dictionaries and Maps
 - [X] Day 9: Recursion 3
-- [ ] Day 10:
+- [X] Day 10: Binary Numbers
 - [ ] Day 11:
 - [ ] Day 12:
 - [ ] Day 13:
