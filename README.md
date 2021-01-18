@@ -5,7 +5,7 @@ Object-Oriented Python Coding Practice
 [Take the Challenge](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 ### Contents
-- Problem and solution code
+- Problem statement and solution code
 - 30 challenges
 - Solving one per day for 30 days
 
