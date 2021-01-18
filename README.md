@@ -1,5 +1,6 @@
 # Hacker Rank
-Python Coding Practice
+Object-Oriented Python Coding Practice
+
 ## 30 Days of Code
 [Take the Challenge](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
@@ -21,7 +22,7 @@ Python Coding Practice
 - [X] Day 9: Recursion 3
 - [X] Day 10: Binary Numbers
 - [X] Day 11: 2D Arrays
-- [ ] Day 12:
+- [X] Day 12: Inheritance
 - [ ] Day 13:
 - [ ] Day 14: 
 - [ ] Day 15:
