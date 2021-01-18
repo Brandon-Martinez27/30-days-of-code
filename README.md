@@ -23,7 +23,7 @@ Object-Oriented Python Coding Practice
 - [X] Day 10: Binary Numbers
 - [X] Day 11: 2D Arrays
 - [X] Day 12: Inheritance
-- [ ] Day 13:
+- [X] Day 13: Abstract Classes
 - [ ] Day 14: 
 - [ ] Day 15:
 - [ ] Day 16:
