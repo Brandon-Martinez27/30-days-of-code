@@ -24,7 +24,7 @@ Object-Oriented Python Coding Practice
 - [X] Day 11: 2D Arrays
 - [X] Day 12: Inheritance
 - [X] Day 13: Abstract Classes
-- [ ] Day 14: 
+- [X] Day 14: Scope
 - [ ] Day 15:
 - [ ] Day 16:
 - [ ] Day 17:
