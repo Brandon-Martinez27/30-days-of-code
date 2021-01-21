@@ -26,7 +26,7 @@ Object-Oriented Python Coding Practice
 - [X] Day 13: Abstract Classes
 - [X] Day 14: Scope
 - [X] Day 15: Linked List
-- [ ] Day 16: Exceptions - String to Integer
+- [X] Day 16: Exceptions - String to Integer
 - [ ] Day 17: More Exceptions
 - [ ] Day 18: Queues and Stacks
 - [ ] Day 19: Interfaces
