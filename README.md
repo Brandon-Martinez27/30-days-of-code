@@ -1,4 +1,4 @@
-# Hacker Rank
+# HackerRank.com
 Object-Oriented Python Coding Practice
 
 ## 30 Days of Code
