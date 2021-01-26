@@ -29,9 +29,9 @@ Object-Oriented Python Coding Practice
 - [X] Day 16: Exceptions - String to Integer
 - [X] Day 17: More Exceptions
 - [X] Day 18: Queues and Stacks
-- [ ] Day 19: Interfaces
-- [ ] Day 20: Sorting
-- [ ] Day 21: Generics
+- [X] Day 19: Interfaces
+- [X] Day 20: Sorting
+- [X] Day 21: Generics (copied - see notebook footer)
 - [ ] Day 22: Binary Search Trees
 - [ ] Day 23: BST Level-Order Traversal
 - [ ] Day 24: More Linked Lists
