@@ -32,10 +32,10 @@ Object-Oriented Python Coding Practice
 - [X] Day 19: Interfaces
 - [X] Day 20: Sorting
 - [X] Day 21: Generics (copied - see notebook footer)
-- [ ] Day 22: Binary Search Trees
-- [ ] Day 23: BST Level-Order Traversal
-- [ ] Day 24: More Linked Lists
-- [ ] Day 25: Running Time and Complexity
+- [X] Day 22: Binary Search Trees
+- [X] Day 23: BST Level-Order Traversal
+- [X] Day 24: More Linked Lists
+- [X] Day 25: Running Time and Complexity
 - [ ] Day 26: Nested Logic
 - [ ] Day 27: Testing
 - [ ] Day 28: RegEx, Patterns, and Intro to Databases
